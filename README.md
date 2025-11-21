@@ -7,16 +7,6 @@
 [![Downloads](https://img.shields.io/github/downloads/alireza0/x-ui/total.svg)](https://img.shields.io/github/downloads/alireza0/x-ui/total.svg)
 [![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-> **Disclaimer:** This project is only for personal learning and communication, please do not use it for illegal purposes, please do not use it in a production environment
-
-**If you think this project is helpful to you, you may wish to give a**:star2:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alireza7)
-
-<a href="https://nowpayments.io/donation/alireza7" target="_blank" rel="noreferrer noopener">
-   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
-
 ## Quick Overview
 | Features                               |      Enable?       |
 | -------------------------------------- | :----------------: |
@@ -36,15 +26,7 @@
 ## Install & Upgrade to Latest Version
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh)
-```
-
-## Install Legacy Version
-
-**Step 1:** To install an old version, use following installation command. e.g., version `1.8.0`:
-
-```sh
-VERSION=1.8.0 && bash <(curl -Ls "https://raw.githubusercontent.com/alireza0/x-ui/$VERSION/install.sh") $VERSION
+bash <(curl -Ls https://raw.githubusercontent.com/Nikitac911/x-ui/master/install.sh)
 ```
 
 ## Manual Install & Upgrade
